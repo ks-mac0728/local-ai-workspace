@@ -1,1 +1,1 @@
-# Local AI Workspace
+# New Title for Local AI Workspace
